@@ -112,3 +112,10 @@ https://git-scm.com/docs
 Tutoriel de démarrage
 https://guides.github.com/activities/hello-world/ 
 
+<<<<<<< HEAD
+=======
+rien du tout
+
+
+ffsdjkljlkjfsd
+>>>>>>> manouvellebranche
