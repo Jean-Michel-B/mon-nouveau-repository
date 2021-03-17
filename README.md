@@ -104,6 +104,8 @@ https://www.codecademy.com/learn/learn-git
 Try Git (CodeSchool)
 https://www.codeschool.com/courses/try-git 
 
+autre modif
+
 La doc Github
 https://git-scm.com/docs 
 
@@ -111,3 +113,6 @@ Tutoriel de démarrage
 https://guides.github.com/activities/hello-world/ 
 
 rien du tout
+
+
+ffsdjkljlkjfsd
